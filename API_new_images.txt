@@ -1,0 +1,8 @@
+  apiKey: "AIzaSyCPInwTkfl4IRlnD3NSrUqoMYhe0RkM34g",
+  authDomain: "thesis-thinh-f1f37.firebaseapp.com",
+  databaseURL: "https://thesis-thinh-f1f37-default-rtdb.firebaseio.com",
+  projectId: "thesis-thinh-f1f37",
+  storageBucket: "thesis-thinh-f1f37.appspot.com",
+  messagingSenderId: "719145362801",
+  appId: "1:719145362801:web:2ffe1455853f205a53c2d0",
+  measurementId: "G-30F3MDXYX7"
