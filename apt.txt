@@ -1,0 +1,8 @@
+apiKey: "AIzaSyAzbZ4T8_USaJPbk3NckFEyJ-WdUF-0NgA",
+  authDomain: "image-thesis-ngoducthinh.firebaseapp.com",
+  databaseURL: "https://image-thesis-ngoducthinh-default-rtdb.firebaseio.com",
+  projectId: "image-thesis-ngoducthinh",
+  storageBucket: "image-thesis-ngoducthinh.appspot.com",
+  messagingSenderId: "74759260303",
+  appId: "1:74759260303:web:e3d0913739fcbe6d56c8fa",
+  measurementId: "G-RV951LBGXE"
