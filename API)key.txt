@@ -1,0 +1,7 @@
+apiKey: "AIzaSyCx2on-n0JBCYHayavsQ5MuCPcaEL6E4ho",
+  authDomain: "thinhthesis.firebaseapp.com",
+  projectId: "thinhthesis",
+  storageBucket: "thinhthesis.appspot.com",
+  messagingSenderId: "1059488704294",
+  appId: "1:1059488704294:web:59433dd89b74dc636cc3e7",
+  measurementId: "G-0DXJKLBWQK"
